@@ -8,10 +8,10 @@ This is the log for our group project, which shows the progress we are making
 -
 -
 2. Still needs to be done 
--
--
--
--
+- Charcater Desgin
+- Game mechanics 
+- Game plotline
+- Game Bascis (Fighting Mechanics, Settings,ETC)
 3. What we are 'thinking' about 
 -
 -
