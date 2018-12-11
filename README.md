@@ -4,7 +4,7 @@ This is the log for our group project, which shows the progress we are making
 
 1. Project Progress Thus far
 - Created Start Screen
-- 
+- Added background images to the game
 -
 -
 2. Still needs to be done 
