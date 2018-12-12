@@ -18,6 +18,12 @@ This is the log for our group project, which shows the progress we are making
 -
 - 
 Screen shots of our process
+<br>
 
-
+![Code for game](https://github.com/davidklimantovich/ICS20-Summative-log/blob/master/Sceenshots.PNG)
+![Code for game](https://github.com/davidklimantovich/ICS20-Summative-log/blob/master/Capture.PNG)
+![Code for game(html)](https://github.com/davidklimantovich/ICS20-Summative-log/blob/master/Capture1.PNG)
+![Code of game(html)](https://github.com/davidklimantovich/ICS20-Summative-log/blob/master/Capture2.PNG)
+![code of the game(html)](https://github.com/davidklimantovich/ICS20-Summative-log/blob/master/Capture3.PNG)
+![Picture of the game](https://github.com/davidklimantovich/ICS20-Summative-log/blob/master/Sceenshots1.PNG)
 <p><em>Source: <a href=   https://editor.p5js.org/Benjaminphan04/sketches/HykqlCAy4 />Our game website </a></em></p>
