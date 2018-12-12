@@ -20,8 +20,4 @@ This is the log for our group project, which shows the progress we are making
 Screen shots of our process
 
 
-
-
-
-
- <p><em>Source: <a href=   https://editor.p5js.org/Benjaminphan04/sketches/HykqlCAy4 />Our game website </a></em></p>
+<p><em>Source: <a href=   https://editor.p5js.org/Benjaminphan04/sketches/HykqlCAy4 />Our game website </a></em></p>
