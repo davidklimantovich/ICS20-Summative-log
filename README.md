@@ -13,7 +13,7 @@ This is the log for our group project, which shows the progress we are making
 - Game plotline
 - Game Bascis (Fighting Mechanics, Settings,ETC)
 3. What we are 'thinking' about 
--
+- Adding more information to our intro screen
 -
 -
 -
