@@ -1,5 +1,5 @@
 # ICS20-Summative-log
-This is the log for our group project, which shows the progress we are making
+This is the log for our group project, which shows the progress we are making in December 12, 2018
 
 
 1. Project Progress Thus far
@@ -18,6 +18,29 @@ This is the log for our group project, which shows the progress we are making
 -
 -
 - 
+-----------------------------------
+This is the log for our group project, which shows the progress we are making in Janurany 3, 2019
+
+1. Project Progress Thus far
+- Created Start Screen
+- Added background images to the game
+- Change Scene 
+- Character Desgin
+
+2. Still needs to be done 
+- Game mechanics 
+- Game plotline
+- Game Bascis (Fighting Mechanics, Settings,ETC)
+
+3. What we are 'thinking' about 
+- Adding more information to our intro screen
+- Each character have different gameplay
+-
+- 
+
+
+
+
 Screen shots of our process
 <br>
 
