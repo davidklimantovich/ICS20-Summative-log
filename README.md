@@ -62,5 +62,6 @@ Some screen shots of our code
 ![Code for game](https://github.com/davidklimantovich/ICS20-Summative-log/blob/master/Annotation%202019-01-24%20075059.jpg)
 ![Code for game(html)](https://github.com/davidklimantovich/ICS20-Summative-log/blob/master/Annotation%202019-01-24%20075124.jpg)
 
-![Picture of the game](https://github.com/davidklimantovich/ICS20-Summative-log/blob/master/Sceenshots1.PNG)
-<p><em>Source: <a href=  https://editor.p5js.org/MatthewNguyenAYJ/sketches/rkGSjBK-4 />Our game website </a></em></p>
+![Picture of the game](https://github.com/davidklimantovich/ICS20-Summative-log/blob/master/Annotation%202019-01-24%20080416.jpg)
+
+<p><em>Source: <a href= https://bit.ly/2AV5JAs />Our game website </a></em></p>
