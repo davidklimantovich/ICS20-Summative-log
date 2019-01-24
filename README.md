@@ -37,6 +37,20 @@ This is the log for our group project, which shows the progress we are making in
 - Each character have different gameplay
 -
 - 
+---------------------------------------------------
+This is the log for our group project, which shows the progress we are making in Janurany 24, 2019
+
+1. Project that are done
+- Created Start Screen
+- Added background images to the game
+- Change Scene 
+- Character Desgin
+- Game mechanics 
+- Game plotline
+- Game Bascis (Fighting Mechanics, Settings,ETC)
+- Adding more information to our intro screen
+
+
 
 
 
