@@ -58,7 +58,7 @@ This is the log for our group project, which shows the progress we are making in
 Some screen shots of our code
 <br>
 
-![Code for game](https://github.com/davidklimantovich/ICS20-Summative-log/blob/master/Sceenshots.PNG)
+![Code for game](https://github.com/davidklimantovich/ICS20-Summative-log/blob/master/Annotation%202019-01-18%20055305.jpg)
 ![Code for game](https://github.com/davidklimantovich/ICS20-Summative-log/blob/master/Capture.PNG)
 ![Code for game(html)](https://github.com/davidklimantovich/ICS20-Summative-log/blob/master/Capture1.PNG)
 ![Code of game(html)](https://github.com/davidklimantovich/ICS20-Summative-log/blob/master/Capture2.PNG)
